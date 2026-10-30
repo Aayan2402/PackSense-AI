@@ -4,12 +4,6 @@
   <b>AI-Based Intelligent Food Packaging Material Recommendation System for Food Commodities</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Aayan2402/PackSense-AI">GitHub Repository</a>
-</p>
-
----
-
 ## 📌 About the Project
 
 **PackSense AI** is an AI-based intelligent food packaging recommendation system designed to help farmers, food producers, FPOs, and small businesses select suitable packaging materials for different food commodities.
